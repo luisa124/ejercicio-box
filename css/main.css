@@ -1,0 +1,23 @@
+.padre {
+    height: 160px;
+    width: 900px;
+    background-color: mediumorchid;
+}
+.hijos {
+    background-color: bisque;
+    position: relative;
+    top: 25px;
+    left: 0px;
+    height: 115px;
+    width: 840px;
+}
+.hijo {
+    background-color: floralwhite;
+    border-style: dotted;
+    border-color: black;
+    position: absolute;
+    top: 70px;
+    left: 320px;
+    width: 720px;
+    height: 35px;
+}
